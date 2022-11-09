@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "moth_reader",
+  "moth_ostree",
+  "moth_cli",
+]
